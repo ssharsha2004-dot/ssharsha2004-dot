@@ -83,22 +83,23 @@ I'm an MCA student specialising in **AI/ML and Data Science**. I enjoy building 
 
 </div>
 
-### 🎮 Simulated Reality Innovations — Online Gaming Application
-An interactive gaming web application with user registration, game-session management, and score tracking backed by MySQL.
+### 🎮 Simulated Reality Innovations — Online Gaming Platform
 
-**Built with:** `HTML` `CSS` `JavaScript` `MySQL`
+An interactive gaming application built with HTML, CSS, JavaScript, and MySQL.
 
-[**View source code →**](https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations)
+[![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff2d2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations)
 
 ### 🍔 Food Ordering System
-A full-stack food ordering application with menu browsing, order placement, delivery-status tracking, and an admin panel for order and inventory management.
 
-**Built with:** `PHP` `MySQL` `HTML` `CSS` `XAMPP`
+A web application for menu browsing, placing orders, delivery tracking, and admin-side inventory management.
 
-[**View source code →**](https://github.com/ssharsha2004-dot/Food-Ordering-System)
+[![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff2d2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssharsha2004-dot)
 
 ### 🎙️ Voice Browser
-A voice-controlled browser concept that uses speech recognition and NLP techniques to convert spoken commands into web-navigation actions.
+
+A Python application using speech recognition and NLP concepts for voice-controlled web navigation.
+
+[![View Repository](https://img.shields.io/badge/GitHub-View%20Repository-ff2d2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssharsha2004-dot)
 
 **Built with:** `Python` `Speech Recognition` `NLP`
 
