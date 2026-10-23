@@ -1,8 +1,7 @@
 <!-- Profile README for ssharsha2004-dot | Red & Black Theme | Broken project pin cards removed -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:ff0000&height=220&section=header&text=SRI%20HARSHA%20S&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MCA%20%7C%20AI%2FML%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=58&animation=twinkling"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f1d1d,100:ff0000&height=220&section=header&text=SRI%20HARSHA%20S&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MCA%20%7C%20AI%2FML%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=58&animation=twinkling"
     width="100%"
     alt="Sri Harsha S - Red and Black Gradient Banner"/>
 
