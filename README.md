@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000, #000000&height=180&section=header&text=Sri%20Harsha%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=18" alt="Waving header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:7f1d1d,100:ef4444&height=220&section=header&text=SRI%20HARSHA%20S&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MCA%20%7C%20AI%2FML%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=58&animation=twinkling" alt="Sri Harsha S — red and black animated banner"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF2D2D&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+AI%2FML+%26+Data+Science;Python+%7C+SQL+%7C+Machine+Learning;Building+web+applications+and+AI-powered+projects" alt="Typing animation" />
 
