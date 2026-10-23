@@ -3,9 +3,14 @@
   Theme: Midnight Black + Crimson Red
 -->
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:7f1d1d,100:ef4444&height=220&section=header&text=SRI%20HARSHA%20S&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MCA%20%7C%20AI%2FML%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=58&animation=twinkling" alt="Sri Harsha S — red and black animated banner"/>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=200&section=header&text=Sri%20Harsha%20S&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20%7C%20Aspiring%20Data%20Scientist&descSize=18&descAlignY=55"
+    alt="Sri Harsha - Red and Black Header"
+    width="100%"
+  />
+
 
 <a href="https://github.com/ssharsha2004-dot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=FF4D4D&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;MCA+Student+%7C+AI%2FML+%26+Data+Science;Python+%7C+SQL+%7C+Machine+Learning;Building+web+apps+and+AI-powered+projects" alt="Animated introduction"/>
