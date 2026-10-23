@@ -1,156 +1,176 @@
-<!-- Profile README for ssharsha2004-dot | Red & Black Theme -->
+<!--
+  Sri Harsha S | GitHub Profile README
+  Theme: Midnight Black + Crimson Red
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0b0b,ff2d2d&height=180&section=header&text=Sri%20Harsha%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=58&descSize=18" alt="Waving header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:7f1d1d,100:ef4444&height=220&section=header&text=SRI%20HARSHA%20S&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=MCA%20%7C%20AI%2FML%20%26%20DATA%20SCIENCE&descSize=17&descAlignY=58&animation=twinkling" alt="Sri Harsha S — red and black animated banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF2D2D&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+AI%2FML+%26+Data+Science;Python+%7C+SQL+%7C+Machine+Learning;Building+web+applications+and+AI-powered+projects" alt="Typing animation" />
+<a href="https://github.com/ssharsha2004-dot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=FF4D4D&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;MCA+Student+%7C+AI%2FML+%26+Data+Science;Python+%7C+SQL+%7C+Machine+Learning;Building+web+apps+and+AI-powered+projects" alt="Animated introduction"/>
+</a>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-ff2d2d?style=for-the-badge&logo=github&logoColor=ffffff)](mailto:ssharsha2004@gmail.com)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ssharsha2004-dot&label=Profile%20Views&color=ff2d2d&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/ssharsha2004-dot?label=Followers&style=flat&color=ff2d2d)](https://github.com/ssharsha2004-dot?tab=followers)
+<a href="https://github.com/ssharsha2004-dot">
+  <img src="https://img.shields.io/badge/GitHub-ssharsha2004--dot-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub username"/>
+</a>
+<a href="mailto:ssharsha2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ssharsha2004-dot&style=for-the-badge&color=ef4444&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/ssharsha2004-dot?tab=followers">
+  <img src="https://img.shields.io/github/followers/ssharsha2004-dot?style=for-the-badge&color=ef4444&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
 
 </div>
 
-## Who I Am
+---
+
+## 🔴 About Me
 
 ```typescript
 const sriHarsha = {
-  title: "MCA Student — AI/ML & Data Science",
-  stack: [
-    "Python (learning)",
-    "Java",
-    "JavaScript",
-    "HTML/CSS",
-    "PHP",
-    "SQL/MySQL",
+  role: "MCA Student — AI/ML & Data Science",
+  goal: "Aspiring Data Scientist",
+  learning: [
+    "Python",
+    "Data Science",
     "Machine Learning fundamentals",
-    "Git",
-    "VS Code",
-    "Linux",
-    "Firebase"
+    "Exploratory Data Analysis"
   ],
-  launchedProjects: [
-    "Simulated Reality Innovations — Online Gaming Application",
-    "Food Ordering System",
-    "Voice Browser"
-  ],
+  technologies: {
+    languages: ["Python", "Java", "JavaScript", "PHP", "HTML", "CSS"],
+    data: ["SQL", "MySQL", "Microsoft Excel", "Data Modelling", "Statistical Analysis"],
+    tools: ["Git", "VS Code", "Linux", "Firebase"],
+    ai: ["Machine Learning fundamentals", "Speech Recognition", "NLP concepts"]
+  },
   certifications: [
     "CSCU — Certified Secure Computer User (EC-Council)",
-    "Internship Completion Certificate — Operational Engineer Intern, Finesse Couture Private Limited"
+    "Operational Engineer Internship Completion — Finesse Couture Private Limited"
   ],
-  status: "Exploring data science, analytics, and machine learning",
-  openTo: "Opportunities to apply programming, data analysis, and AI/ML skills to real-world problems"
+  interests: [
+    "Data-driven problem solving",
+    "E-commerce analytics",
+    "Supply chain optimisation",
+    "Business intelligence"
+  ],
+  status: "Learning, building, and growing through practical projects"
 };
 ```
 
-## Featured Projects
+I'm an MCA student specialising in **AI/ML and Data Science**. I enjoy building applications, exploring analytical approaches, and learning how technology can solve real-world problems. My academic projects span web development, database-backed systems, and voice-driven interaction.
 
-### 1. Simulated Reality Innovations — Online Gaming Application
+## 🧩 Featured Projects
 
-An interactive online gaming platform with user registration, game-session management, and score tracking backed by MySQL. Includes dynamic UI components and responsive client-side behavior.
+<div align="center">
 
-[![Simulated Reality Innovations](https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Simulated-Reality-Innovations&theme=dark&border_color=ff2d2d&title_color=ff2d2d)](https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations)
+<a href="https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Simulated-Reality-Innovations&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF4D4D&icon_color=FF4D4D&text_color=E5E7EB" alt="Simulated Reality Innovations project card"/>
+</a>
+<a href="https://github.com/ssharsha2004-dot/Food-Ordering-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Food-Ordering-System&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF4D4D&icon_color=FF4D4D&text_color=E5E7EB" alt="Food Ordering System project card"/>
+</a>
+<a href="https://github.com/ssharsha2004-dot/Voice-Browser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Voice-Browser&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF4D4D&icon_color=FF4D4D&text_color=E5E7EB" alt="Voice Browser project card"/>
+</a>
 
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Database | MySQL |
+</div>
 
-- **Live:** Not provided
-- **Code:** [Simulated-Reality-Innovations](https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations)
+### 🎮 Simulated Reality Innovations — Online Gaming Application
+An interactive gaming web application with user registration, game-session management, and score tracking backed by MySQL.
 
-### 2. Food Ordering System
+**Built with:** `HTML` `CSS` `JavaScript` `MySQL`
 
-A full-stack food ordering application for browsing menus, placing orders, tracking delivery status, and managing orders and inventory through an admin panel.
+[**View source code →**](https://github.com/ssharsha2004-dot/Simulated-Reality-Innovations)
 
-[![Food Ordering System](https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Food-Ordering-System&theme=dark&border_color=ff2d2d&title_color=ff2d2d)](https://github.com/ssharsha2004-dot/Food-Ordering-System)
+### 🍔 Food Ordering System
+A full-stack food ordering application with menu browsing, order placement, delivery-status tracking, and an admin panel for order and inventory management.
 
-| Layer | Technology |
-|---|---|
-| Frontend | HTML, CSS |
-| Backend | PHP |
-| Database / Environment | MySQL, XAMPP |
+**Built with:** `PHP` `MySQL` `HTML` `CSS` `XAMPP`
 
-- **Live:** Not provided
-- **Code:** [Food-Ordering-System](https://github.com/ssharsha2004-dot/Food-Ordering-System)
+[**View source code →**](https://github.com/ssharsha2004-dot/Food-Ordering-System)
 
-### 3. Voice Browser
+### 🎙️ Voice Browser
+A voice-controlled browser concept that uses speech recognition and NLP techniques to convert spoken commands into web-navigation actions.
 
-A voice-controlled browser application using speech recognition and natural language processing concepts to turn spoken commands into web-navigation actions.
+**Built with:** `Python` `Speech Recognition` `NLP`
 
-[![Voice Browser](https://github-readme-stats.vercel.app/api/pin/?username=ssharsha2004-dot&repo=Voice-Browser&theme=dark&border_color=ff2d2d&title_color=ff2d2d)](https://github.com/ssharsha2004-dot/Voice-Browser)
+[**View source code →**](https://github.com/ssharsha2004-dot/Voice-Browser)
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| AI / Interaction | Speech Recognition, NLP |
+> **Note:** The repository links above are based on project titles in my resume. If your repositories use different names, update these links to match the exact repository URLs. No live demo links were provided.
 
-- **Live:** Not provided
-- **Code:** [Voice-Browser](https://github.com/ssharsha2004-dot/Voice-Browser)
+## 🛠️ Tech Stack
 
-## Tech Stack
+<div align="center">
 
 **Languages**
-<br/>
-[![Languages](https://skillicons.dev/icons?i=python,java,js,php&theme=dark)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?i=python,java,js,php&theme=dark" alt="Python, Java, JavaScript, PHP"/>
 
 **Frontend**
-<br/>
-[![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-**Backend / Infrastructure**
-<br/>
-[![Backend](https://skillicons.dev/icons?i=php,mysql&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
 
-**AI / Database**
-<br/>
-[![AI and Database](https://skillicons.dev/icons?i=mysql,firebase&theme=dark)](https://skillicons.dev)
+**Backend & Data**
 
-**Dev Tools**
-<br/>
-[![Dev Tools](https://skillicons.dev/icons?i=git,vscode,linux,firebase&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase&theme=dark" alt="PHP, MySQL, Firebase"/>
 
-## GitHub Stats
+**Developer Tools**
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ssharsha2004-dot&show_icons=true&theme=dark&hide_border=true&border_color=ff2d2d&title_color=ff2d2d&icon_color=ff2d2d" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssharsha2004-dot&layout=compact&theme=dark&hide_border=true&border_color=ff2d2d&title_color=ff2d2d" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=git,vscode,linux&theme=dark" alt="Git, VS Code, Linux"/>
 
 </div>
 
-## GitHub Streak
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ssharsha2004-dot&theme=dark&hide_border=true&ring=ff2d2d&fire=ff2d2d&currStreakLabel=ff2d2d" alt="GitHub streak stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ssharsha2004-dot&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4D4D&icon_color=FF4D4D&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssharsha2004-dot&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4D4D&text_color=E5E7EB" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ssharsha2004-dot&hide_border=true&background=0D0D0D&ring=EF4444&fire=EF4444&currStreakLabel=FF4D4D&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ssharsha2004-dot&theme=dark&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ssharsha2004-dot&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
 
 </div>
 
-## Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssharsha2004-dot&bg_color=0b0b0b&color=ff2d2d&line=ff2d2d&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssharsha2004-dot&bg_color=0D0D0D&color=FF4D4D&line=EF4444&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
 </div>
 
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-ssharsha2004%40gmail.com-ff2d2d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ssharsha2004@gmail.com)
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff2d2d,0b0b0b&height=100&section=footer" alt="Waving footer banner" />
+<a href="mailto:ssharsha2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ssharsha2004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sri Harsha"/>
+</a>
+<a href="https://github.com/ssharsha2004-dot">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 *Learning every day. Building with purpose.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,55:7f1d1d,100:080808&height=120&section=footer" alt="Red and black footer banner"/>
 
 </div>
